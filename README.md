@@ -4,7 +4,8 @@ DOMU'S RECIPES is a small home-based selection of Sardinian sheep's-milk cheese 
 
 ## What's in this folder
 
-- `index.html`: the one-page site. It has the nonna hero and 3 clickable cheese cards; each card opens a popup with the producer's description in English and Italian. Images and font load from `assets/`.
+- `index.html`: the home page. It has the nonna hero and 3 cheese cards; each card links to its own page. Images and font load from `assets/`.
+- `pecorino-tenero.html`, `pecorino-semistagionato.html`, `pecorino-stagionato.html`: one page per cheese, with "The cheese" (the producer's description in English and Italian) and "Pairings" (the producer's recommended food and drink pairings) side by side.
 - `domu-cheeses-standalone.html`: the same page with everything embedded (base64), so it works offline as a single file.
 - `assets/`
   - Cheese photos: `pecorino-tenero-3-mesi.jpg`, `pecorino-semistagionato-8-mesi.jpg`, `pecorino-stagionato-10-mesi.jpg`
